@@ -12,7 +12,7 @@ The notebooks provide the following workflows:
 
 * FB215-237 ETL: loads and processes triples from the dataset, augmenting them with data useful as inputs to the Keras model.
 * FB215-237 Training: trains an instance of CFModel using the prepared data.
-* FB215-237 Evaluation: evaluates the trained model using the protocol described in Toutanova and Chen [[3]].
+* FB215-237 Evaluation: evaluates the trained model using the protocol described in Toutanova and Chen [[3]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/main_cvsc2015.pdf).
 
 ## Requirements
 
