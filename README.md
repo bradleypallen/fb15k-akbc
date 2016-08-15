@@ -17,7 +17,7 @@ The notebooks provide the following workflows:
 ## Requirements
 
 * Python 2.7
-* A copy of the FB215-237 dataset, downloaded from [[2]].
+* A copy of the FB215-237 dataset, downloaded from [[2]](https://www.microsoft.com/en-us/download/details.aspx?id=52312).
 
 ## Dependencies
 
