@@ -1,7 +1,7 @@
 # fb15k-237-akbc
 
 A set of Jupyter notebooks capturing an effort to apply Keras to the
-problem of automatic knowledge based completion, using the universal
+problem of automatic knowledge base completion, using the universal
 schema [[1]](http://www.riedelcastro.org//publications/papers/riedel13relation.pdf)
 approach. We use the FB215-237 dataset [[2]](https://www.microsoft.com/en-us/download/details.aspx?id=52312)
 developed by Toutanova and her collaborators [[3]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/main_cvsc2015.pdf),
