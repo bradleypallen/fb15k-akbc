@@ -24,7 +24,6 @@ The notebooks provide the following workflows:
 * pandas 0.18.1
 * keras 1.0.6
 * theano 0.8.2
-* scikit-learn 0.17.1
 * numpy 1.11.1
 * h5py 2.6.0  
 * hdf5 1.8.17
