@@ -2,5 +2,6 @@
 *.pyc
 *.zip
 *.csv
+*.h5
 Release/*
 .ipynb_checkpoints/*
